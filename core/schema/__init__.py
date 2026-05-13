@@ -1,0 +1,1 @@
+"""VCP Protocol Schema"""
